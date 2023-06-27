@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Running the project
 
-First, run the development server:
+First, install and run the development server:
 
 ```bash
 npm i
@@ -15,3 +13,5 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Or you can open into [https://utility-three.vercel.app/](https://utility-three.vercel.app/) to see the production version.
